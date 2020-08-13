@@ -1,0 +1,2 @@
+# wordpress
+Simple wordpress dockerfile
